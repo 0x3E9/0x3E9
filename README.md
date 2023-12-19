@@ -1,4 +1,3 @@
-# Hi, I'm Louis!
 ## About me:
 - I'm 17
 - I'm a web developer
